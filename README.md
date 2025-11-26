@@ -58,7 +58,7 @@ The dashboard consists of **two pages**, designed for analytical clarity and sto
 
 ---
 
-### **1️ Page 1 — Executive Overview**
+### **1️ Page 1 Executive Overview**
 
 **KPIs:**
 
@@ -77,7 +77,7 @@ The dashboard consists of **two pages**, designed for analytical clarity and sto
 
 ---
 
-### **2️ Page 2 — Deep-Dive Analytics**
+### **2️ Page 2  Deep-Dive Analytics**
 
 **Visuals:**
 
@@ -158,36 +158,18 @@ Additional measures include Like Ratio, Engagement per 1000 Views, and Avg Comme
 
 ---
 
-## 📁 **Repository Structure**
 
-```
-📦 youtube-analytics-dashboard
- ┣ 📂 data_raw
- ┣ 📂 data_processed
- ┣ 📂 lambda_code (coming soon)
- ┣ 📂 powerbi
- ┣ 📂 screenshots
- ┗ 📜 README.md
-```
 
----
-
-## 📷 **Screenshots**
+##  **Screenshots**
 
 > Add PNGs of the dashboard here — Page 1 and Page 2.
-> 
+> Page 1 Here's our logo (hover to see the title text):
 
----
+Page 1: 
+[Page 1](https://github.com/KhushalKhare/YouTube-Trending-Analytics-Dashboard-AWS-Power-BI-/blob/main/linkedin%20post%202.png")
 
-## 📬 **Contact**
 
-If you’d like to discuss this project or talk about data analytics, BI engineering, or cloud workflows, feel free to reach out.
+Page 2:
+[Page 2](https://github.com/KhushalKhare/YouTube-Trending-Analytics-Dashboard-AWS-Power-BI-/blob/main/linkedin%20post1.png")
 
----
 
-If you want, I can also create:
-
-🔹 A polished architecture diagram
-🔹 A CV bullet point for this project
-🔹 A short GitHub project description
-🔹 A “How to Run” section for your repo
